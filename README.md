@@ -1,12 +1,12 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Hello%20World!&animation=fadeIn&fontColor=59f36b&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=120&text=Hello%20World!&animation=fadeIn&fontColor=59f36b&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 앞으로 꾸준히 성장할 개발자 입니다.</li>저는 배우는 것이 즐겁고 새로운 기술이 늘 찾아봐요! </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 저는 앞으로 꾸준히 성장할 개발자 입니다.</li>저는 배우는 것이 즐겁고 새로운 기술이 늘 찾아봐요! </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
@@ -22,13 +22,13 @@
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=mailto:baekjongeon@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:baekjongeon@gmail.com"> </a>
          <a href=b_eon> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=b_eon"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">   </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;">   </div> 
     </div>
     
