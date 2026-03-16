@@ -1,11 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Jongeon%20Baek&fontSize=42&fontColor=ffffff" />
-</div>
-
-## Hi there 👋
-
-I'm a senior at Seoul National University of Science and Technology (SeoulTech).  
-I'm aiming to become an AI Engineer and enjoy learning by building projects.
+## Hi there!  
+Welcome to my GitHub.  
+I'm a senior at SeoulTech, aiming to become an AI Engineer.
 
 ## Tech Stack
 <p>
