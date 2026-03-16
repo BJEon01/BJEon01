@@ -1,6 +1,10 @@
-## Hi there!  
+<div align="center">
+
+## Hi there! 🖐️  
 Welcome to my GitHub.  
 I'm a senior at SeoulTech, aiming to become an AI Engineer.
+
+</div>
 
 ## Tech Stack
 <p>
