@@ -1,7 +1,10 @@
 <div align="center">
 
-## Hi there! 🖐️  
-Welcome to my GitHub.  
+<h1>Hi Guys! 👋</h1>
+
+Welcome to my GitHub!  
+
+I'm Jongeon Baek.  
 I'm a senior at SeoulTech, aiming to become an AI Engineer.
 
 </div>
